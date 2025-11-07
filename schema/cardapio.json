@@ -1,0 +1,74 @@
+ {
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Pizza Margherita",
+      "categoria": "Pizza",
+      "preco": 25.00,
+      "descricao": "Pizza com molho de tomate, mussarela e manjericão"
+    },
+    {
+      "id": 2,
+      "nome": "Hambúrguer Clássico",
+      "categoria": "Lanche",
+      "preco": 15.00,
+      "descricao": "Hambúrguer com queijo, alface e tomate"
+    },
+    {
+      "id": 3,
+      "nome": "Refrigerante Cola",
+      "categoria": "Bebida",
+      "preco": 5.00,
+      "descricao": "Refrigerante de cola 350ml"
+    },
+    {
+      "id": 4,
+      "nome": "Pizza Calabresa",
+      "categoria": "Pizza",
+      "preco": 28.00,
+      "descricao": "Pizza com calabresa, cebola e mussarela"
+    },
+    {
+      "id": 5,
+      "nome": "Batata Frita",
+      "categoria": "Acompanhamento",
+      "preco": 8.00,
+      "descricao": "Porção de batata frita crocante"
+    },
+    {
+      "id": 6,
+      "nome": "Suco de Laranja",
+      "categoria": "Bebida",
+      "preco": 6.00,
+      "descricao": "Suco natural de laranja 300ml"
+    },
+    {
+      "id": 7,
+      "nome": "Cheeseburger",
+      "categoria": "Lanche",
+      "preco": 18.00,
+      "descricao": "Hambúrguer duplo com queijo cheddar extra"
+    },
+    {
+      "id": 8,
+      "nome": "Salada Caesar",
+      "categoria": "Salada",
+      "preco": 12.00,
+      "descricao": "Salada com alface, croutons e molho Caesar"
+    },
+    {
+      "id": 9,
+      "nome": "Sorvete de Baunilha",
+      "categoria": "Sobremesa",
+      "preco": 7.00,
+      "descricao": "Copo de sorvete de baunilha com calda"
+    },
+    {
+      "id": 10,
+      "nome": "Cerveja Pilsen",
+      "categoria": "Bebida",
+      "preco": 8.00,
+      "descricao": "Cerveja pilsen 350ml (apenas para maiores de 18 anos)"
+    }
+  ]
+}
